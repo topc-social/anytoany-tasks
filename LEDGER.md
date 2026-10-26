@@ -7,6 +7,8 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-11 | Kamal Khatwani | Building anytoany to date, at rebuild cost on rate card v2 (breakdown below) | 62,500 | provisional | |
+| 2 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #6: Your Claude knows your people and reaches their Claude | 15 | provisional | https://github.com/kamal0808/anytoany/pull/2 |
+| 3 | 2026-10-26 | Kamal Khatwani | Work (99%) on #6: Your Claude knows your people and reaches their Claude | 1,485 | provisional | https://github.com/kamal0808/anytoany/pull/2 |
 
 ## Row 1 breakdown (rebuild cost, rate card v2, 2026-10-11)
 
