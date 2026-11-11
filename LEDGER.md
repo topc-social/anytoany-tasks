@@ -13,6 +13,8 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 5 | 2026-10-26 | Kamal Khatwani | Work (99%) on #7: Ship people sessions: install page to it working on any Mac | 6,435 | provisional | https://github.com/kamal0808/anytoany/pull/2 |
 | 6 | 2026-11-11 | Kamal Khatwani | Idea (1%) for #8: Messages show up free; Claude runs only when you click | 15 | provisional | https://github.com/kamal0808/anytoany/pull/4 |
 | 7 | 2026-11-11 | Kamal Khatwani | Work (99%) on #8: Messages show up free; Claude runs only when you click | 1,485 | provisional | https://github.com/kamal0808/anytoany/pull/4 |
+| 8 | 2026-11-12 | Kamal Khatwani | Idea (1%) for #10: Claude checks messages only when you ask or click | 8 | provisional | https://github.com/kamal0808/anytoany/pull/5 |
+| 9 | 2026-11-12 | Kamal Khatwani | Work (99%) on #10: Claude checks messages only when you ask or click | 792 | provisional | https://github.com/kamal0808/anytoany/pull/5 |
 
 ## Row 1 breakdown (rebuild cost, rate card v2, 2026-10-11)
 
